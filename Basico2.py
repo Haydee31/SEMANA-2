@@ -1,0 +1,10 @@
+print("Ingrese su nombre:")
+nombrea = input()
+print(f"Se llama {nombrea}")
+print()
+nombre=input("Ingrese nombre:\n")
+print(f"Se llama {nombre}")
+
+print("Ingrese su edad:")
+edad = input()
+print(f"Se llama {nombrea} y tiene {edad}")
